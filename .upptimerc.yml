@@ -2,6 +2,9 @@
 owner: timbru31 # Your GitHub username
 repo: upptime # Your GitHub repository name
 
+assignees:
+  - timbru31
+
 # Add your sites here
 sites:
   - name: Dustplanet
@@ -25,10 +28,12 @@ status-website:
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub to monitor services at Dustplanet."
   introMessage: This status page shows **real-time** data from our [GitHub repository](https://github.com/dustplanet/upptime). In case of an incident please either report it on [Discord](https://discord.gg/EZbr6Ks) or via [e-mail](mailto://admin@dustplanet.de)
   navbar:
+    - title: Dustplanet
+      href: https://dustplanet.de
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/dustplanet/$REPO
+      href: https://github.com/$OWNER/$REPO
     - title: Jenkins
       href: https://ci.dustplanet.de
     - title: Artifactory
