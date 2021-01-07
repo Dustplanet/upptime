@@ -23,7 +23,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Dustplanet's upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub to monitor services at Dustplanet."
-  introMessage: This status page shows **real-time** data from our [GitHub repository](https://github.com/dustplanet/upptime). In case of an incident please either report it on [Discord](https://discord.gg/EZbr6Ks) or via [e-mail](admin@dustplanet.de)
+  introMessage: This status page shows **real-time** data from our [GitHub repository](https://github.com/dustplanet/upptime). In case of an incident please either report it on [Discord](https://discord.gg/EZbr6Ks) or via [e-mail](mailto://admin@dustplanet.de)
   navbar:
     - title: Status
       href: /
