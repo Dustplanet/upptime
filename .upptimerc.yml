@@ -20,7 +20,7 @@ status-website:
   cname: status.dustplanet.de
   # Uncomment the following line if you don't have a custom domain and add your repo name
   #baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://dustplanet.de/wp-content/uploads/2014/08/favicon_neu.png
   name: Dustplanet's upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub to monitor services at Dustplanet."
   introMessage: This status page shows **real-time** data from our [GitHub repository](https://github.com/dustplanet/upptime). In case of an incident please either report it on [Discord](https://discord.gg/EZbr6Ks) or via [e-mail](mailto://admin@dustplanet.de)
