@@ -24,17 +24,17 @@
     "url": "https://ci.dustplanet.de",
     "icon": "https://favicons.githubusercontent.com/ci.dustplanet.de",
     "slug": "jenkins",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 746,
-    "timeDay": 412,
-    "timeWeek": 469,
-    "timeMonth": 676,
-    "timeYear": 746,
+    "time": 742,
+    "timeDay": 441,
+    "timeWeek": 472,
+    "timeMonth": 672,
+    "timeYear": 742,
     "dailyMinutesDown": {
       "2021-01-07": 12
     }
