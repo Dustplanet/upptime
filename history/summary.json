@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 666,
-    "timeDay": 880,
-    "timeWeek": 710,
-    "timeMonth": 670,
+    "timeDay": 603,
+    "timeWeek": 724,
+    "timeMonth": 666,
     "timeYear": 652,
     "dailyMinutesDown": {
       "2022-07-02": 15,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 602,
-    "timeDay": 500,
-    "timeWeek": 635,
-    "timeMonth": 609,
-    "timeYear": 621,
+    "timeDay": 587,
+    "timeWeek": 647,
+    "timeMonth": 605,
+    "timeYear": 622,
     "dailyMinutesDown": {
       "2022-09-15": 20,
       "2022-07-02": 15,
@@ -50,15 +50,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.dustplanet.de.ico",
     "slug": "artifactory",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 658,
-    "timeDay": 506,
-    "timeWeek": 664,
-    "timeMonth": 637,
+    "time": 657,
+    "timeDay": 623,
+    "timeWeek": 673,
+    "timeMonth": 633,
     "timeYear": 652,
     "dailyMinutesDown": {
       "2022-12-11": 16,
@@ -67,8 +67,7 @@
       "2022-07-19": 39,
       "2022-07-02": 15,
       "2022-06-30": 73,
-      "2022-06-29": 23,
-      "2022-06-27": 23
+      "2022-06-29": 23
     }
   },
   {
@@ -83,9 +82,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 509,
-    "timeDay": 300,
-    "timeWeek": 453,
-    "timeMonth": 458,
+    "timeDay": 424,
+    "timeWeek": 454,
+    "timeMonth": 454,
     "timeYear": 499,
     "dailyMinutesDown": {
       "2023-01-25": 37,
@@ -103,17 +102,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 760,
-    "timeDay": 673,
-    "timeWeek": 751,
-    "timeMonth": 731,
-    "timeYear": 750,
+    "time": 754,
+    "timeDay": 803,
+    "timeWeek": 772,
+    "timeMonth": 732,
+    "timeYear": 751,
     "dailyMinutesDown": {
       "2022-11-07": 46,
       "2022-07-02": 15,
       "2022-06-30": 73,
-      "2022-06-29": 23,
-      "2022-06-27": 50
+      "2022-06-29": 23
     }
   }
 ]
