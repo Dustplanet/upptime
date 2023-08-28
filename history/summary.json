@@ -6,7 +6,7 @@
     "slug": "dustplanet",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -14,8 +14,9 @@
     "timeDay": 650,
     "timeWeek": 677,
     "timeMonth": 679,
-    "timeYear": 665,
+    "timeYear": 664,
     "dailyMinutesDown": {
+      "2023-08-28": 0,
       "2023-06-28": 38
     }
   },
