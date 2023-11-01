@@ -26,18 +26,16 @@
     "slug": "jenkins",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 646,
     "timeDay": 729,
     "timeWeek": 706,
     "timeMonth": 809,
     "timeYear": 674,
-    "dailyMinutesDown": {
-      "2023-11-01": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Artifactory",
@@ -85,18 +83,19 @@
     "url": "https://nextcloud.dustplanet.de",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.dustplanet.de.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 774,
-    "timeDay": 802,
-    "timeWeek": 884,
-    "timeMonth": 830,
-    "timeYear": 780,
+    "time": 775,
+    "timeDay": 675,
+    "timeWeek": 842,
+    "timeMonth": 821,
+    "timeYear": 779,
     "dailyMinutesDown": {
+      "2023-11-01": 0,
       "2023-08-14": 19,
       "2022-11-07": 46
     }
