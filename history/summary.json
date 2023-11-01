@@ -24,18 +24,20 @@
     "url": "https://ci.dustplanet.de",
     "icon": "https://icons.duckduckgo.com/ip3/ci.dustplanet.de.ico",
     "slug": "jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 645,
-    "timeDay": 833,
-    "timeWeek": 714,
-    "timeMonth": 817,
+    "timeDay": 746,
+    "timeWeek": 708,
+    "timeMonth": 812,
     "timeYear": 674,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-01": 0
+    }
   },
   {
     "name": "Artifactory",
