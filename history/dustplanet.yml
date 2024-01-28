@@ -1,7 +1,7 @@
 url: https://dustplanet.de
-status: up
-code: 200
-responseTime: 532
-lastUpdated: 2024-01-27T23:09:28.538Z
+status: down
+code: 500
+responseTime: 728
+lastUpdated: 2024-01-28T20:13:00.968Z
 startTime: 2021-01-07T17:40:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
