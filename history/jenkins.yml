@@ -1,7 +1,7 @@
 url: https://ci.dustplanet.de
-status: down
-code: 503
-responseTime: 397
-lastUpdated: 2024-06-23T23:10:29.273Z
+status: up
+code: 200
+responseTime: 2724
+lastUpdated: 2024-06-24T15:16:39.373Z
 startTime: 2021-01-07T17:40:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
