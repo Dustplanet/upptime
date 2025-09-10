@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1337,
-    "timeDay": 690,
-    "timeWeek": 687,
-    "timeMonth": 658,
-    "timeYear": 1406,
+    "timeDay": 563,
+    "timeWeek": 692,
+    "timeMonth": 654,
+    "timeYear": 1408,
     "dailyMinutesDown": {
       "2025-06-02": 121,
       "2025-05-30": 91,
@@ -28,8 +28,7 @@
       "2024-10-28": 23,
       "2024-09-13": 31,
       "2024-09-12": 32,
-      "2024-09-11": 31,
-      "2024-09-10": 27
+      "2024-09-11": 31
     }
   },
   {
@@ -44,10 +43,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1174,
-    "timeDay": 580,
-    "timeWeek": 670,
-    "timeMonth": 675,
-    "timeYear": 1339,
+    "timeDay": 554,
+    "timeWeek": 677,
+    "timeMonth": 670,
+    "timeYear": 1338,
     "dailyMinutesDown": {
       "2025-06-02": 117,
       "2025-05-30": 56,
@@ -65,16 +64,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.dustplanet.de.ico",
     "slug": "artifactory",
     "status": "up",
-    "uptime": "97.22%",
+    "uptime": "97.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.18%",
-    "time": 1018,
-    "timeDay": 743,
-    "timeWeek": 759,
-    "timeMonth": 684,
-    "timeYear": 1147,
+    "uptimeYear": "97.46%",
+    "time": 1017,
+    "timeDay": 542,
+    "timeWeek": 758,
+    "timeMonth": 678,
+    "timeYear": 1146,
     "dailyMinutesDown": {
       "2025-06-02": 70,
       "2025-05-30": 38,
@@ -90,8 +89,7 @@
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
-      "2024-09-11": 1440,
-      "2024-09-10": 1440
+      "2024-09-11": 1440
     }
   },
   {
@@ -106,10 +104,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 775,
-    "timeDay": 513,
-    "timeWeek": 514,
-    "timeMonth": 486,
-    "timeYear": 643,
+    "timeDay": 444,
+    "timeWeek": 518,
+    "timeMonth": 482,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2025-06-02": 114,
       "2025-05-30": 62,
@@ -126,8 +124,7 @@
       "2024-10-28": 22,
       "2024-09-13": 30,
       "2024-09-12": 16,
-      "2024-09-11": 29,
-      "2024-09-10": 26
+      "2024-09-11": 29
     }
   },
   {
@@ -141,10 +138,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1448,
-    "timeDay": 845,
-    "timeWeek": 896,
-    "timeMonth": 797,
+    "time": 1447,
+    "timeDay": 685,
+    "timeWeek": 899,
+    "timeMonth": 792,
     "timeYear": 1479,
     "dailyMinutesDown": {
       "2025-06-02": 112,
@@ -159,8 +156,7 @@
       "2024-12-03": 16,
       "2024-11-30": 24,
       "2024-09-13": 28,
-      "2024-09-11": 16,
-      "2024-09-10": 24
+      "2024-09-11": 16
     }
   }
 ]
