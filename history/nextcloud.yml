@@ -1,7 +1,7 @@
 url: https://nextcloud.dustplanet.de
-status: up
-code: 200
-responseTime: 662
-lastUpdated: 2025-11-18T11:43:21.478Z
+status: down
+code: 500
+responseTime: 40
+lastUpdated: 2025-11-18T11:54:47.265Z
 startTime: 2021-01-07T17:41:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
